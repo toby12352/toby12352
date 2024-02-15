@@ -2,7 +2,7 @@
 
 Welcome to my github!
 I'm Toby, a full-stack developer from **Myanmar** 
-<img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="13">, currently residing in **Corvallis, Oregon** <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">.
+<img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="15">, currently residing in **Corvallis, Oregon** <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15">.
 
 My Personalities : Open-minded, Optimistic and Competitive
 
