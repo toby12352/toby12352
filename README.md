@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome to my Github! 😁
+
+### I'm an experienced full-stack developer, currently working as a faculty research assistant at Oregon State University. My role focuses on the full-stack development of an OpenAI powered notebook website.
+
+### Visit my [Website](https://toby12352.github.io/tobyThaung) for more information❗
+
+### My Personalities : Open-minded, Optimistic and Competitive
+
 
 <!--
 **toby12352/toby12352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
