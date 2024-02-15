@@ -10,11 +10,11 @@ I'm Toby, a full-stack developer from **Myanmar**
 
 ### Things I work with
 
-**Backend**
+**Backend**<br>
 [![My Skills](https://skillicons.dev/icons?i=express,flask,python,js,nodejs,mysql,c,docker&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+**Frontend**<br>
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,figma&theme=dark)](https://skillicons.dev)
 
-**Tools** 
+**Tools** <br>
 [![My Skills](https://skillicons.dev/icons?i=aws,git,nodejs,mysql,docker,figma&theme=dark)](https://skillicons.dev)
