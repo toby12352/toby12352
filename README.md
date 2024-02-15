@@ -1,6 +1,9 @@
-# Welcome to my Github! 😁
+# Glad, you made it here! 🥂
 
-### I'm an experienced full-stack developer, currently working as a faculty research assistant at Oregon State University. My role focuses on the full-stack development of an OpenAI powered notebook website.
+Welcome to my github!
+I'm Toby, a full-stack developer from **Myanmar**, currently residing in **Corvallis, Oregon**.
+<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
+
 
 ### Visit my [Website](https://toby12352.github.io/tobyThaung) for more information❗
 
