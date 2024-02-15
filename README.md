@@ -10,6 +10,4 @@ I'm Toby, a full-stack developer from **Myanmar**
 
 ### Things I work with
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,react&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,express,flask,js,html,css,nodejs,mysql,c,figma&theme=light)](https://skillicons.dev)
