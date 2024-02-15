@@ -1,9 +1,8 @@
 # Glad, you made it here! 🥂
 
 Welcome to my github!
-I'm Toby, a full-stack developer from **Myanmar**, currently residing in **Corvallis, Oregon**.
-<img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
-
+I'm Toby, a full-stack developer from **Myanmar** 
+<img src="[https://icons8.com/icon/mdqlbmCXtG0X/myanmar" width="13"/>, currently residing in **Corvallis, Oregon**.
 
 ### Visit my [Website](https://toby12352.github.io/tobyThaung) for more information❗
 
