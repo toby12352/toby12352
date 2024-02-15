@@ -2,7 +2,7 @@
 
 Welcome to my github!
 I'm Toby, a full-stack developer from **Myanmar** 
-<img src="[https://icons8.com/icon/mdqlbmCXtG0X/myanmar" width="13"/>, currently residing in **Corvallis, Oregon**.
+<img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="13">, currently residing in **Corvallis, Oregon**.
 
 ### Visit my [Website](https://toby12352.github.io/tobyThaung) for more information❗
 
