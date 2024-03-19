@@ -1,4 +1,4 @@
-# Glad, you made it here! 🥂
+# Glad You Made It Here! 🥂
 
 Welcome to my github!
 
@@ -7,19 +7,19 @@ At the moment, I'm working as a full-stack developer for a research at Oregon St
 
 My Personalities : Open-minded, Optimistic and Competitive
 
-### Things I work with
+## Things I work with
 
-#### Backend
+### Backend
 
 [![My Skills](https://skillicons.dev/icons?i=express,flask,python,js,nodejs,mysql,c,docker&theme=dark)](https://skillicons.dev)
 
-#### Frontend
+### Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,html,css,figma&theme=dark)](https://skillicons.dev)
 
-#### Tools
+### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,nodejs,mysql,docker,figma&theme=dark)](https://skillicons.dev)
 
-> [!NOTE]
+> [!TIP]
 > Visit my [Website](https://toby12352.github.io/tobyThaung) for more information❗
