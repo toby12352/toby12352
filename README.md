@@ -1,8 +1,8 @@
 ## Glad You Made It Here! 🥂
 
-Welcome to my github!
+Welcome to My Github!
 
-I'm Toby, born in **Myanmar** <img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="15"> and currently living in **Oregon,US** <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15">.<br>
+I'm Toby, born in **Myanmar** <img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="15"> and currently living in **Oregon, US** <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15">.<br>
 At the moment, I'm working as a full-stack developer for a research at Oregon State University.
 
 My Personalities : Open-minded, Optimistic and Competitive
@@ -22,4 +22,4 @@ My Personalities : Open-minded, Optimistic and Competitive
 [![My Skills](https://skillicons.dev/icons?i=aws,git,nodejs,mysql,docker,figma&theme=dark)](https://skillicons.dev)
 
 > [!TIP]
-> **Visit my [Website](https://toby12352.github.io/tobyThaung) for more information**
+> ## **Visit my [Website](https://toby12352.github.io/tobyThaung) for more information**
