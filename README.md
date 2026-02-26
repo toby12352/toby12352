@@ -3,7 +3,7 @@
 Welcome to My Github!
 
 I'm Toby, born in **Myanmar** <img src="https://hatscripts.github.io/circle-flags/flags/mm.svg" width="15"> and currently living in **Oregon, US** <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="15">.<br>
-At the moment, I'm working as a full-stack developer for a research at Oregon State University.
+Enjoy my github.
 
 My Personalities : Open-minded, Optimistic and Competitive
 
